@@ -1,67 +1,417 @@
 #EXTM3U
-#EXTINF:-1,ES: #0
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3964.ts
-#EXTINF:-1,ES: #0 FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4086.ts
-#EXTINF:-1,ES: #0 HD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4085.ts
-#EXTINF:-1,ES: 13 TV
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4084.ts
-#EXTINF:-1,ES: 8madrid TV
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3963.ts
-#EXTINF:-1,ES: A&E
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4083.ts
-#EXTINF:-1,ES: A3 SERIE FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3994.ts
-#EXTINF:-1,ES: AMC
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4082.ts
-#EXTINF:-1,ES: AMC HD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3962.ts
-#EXTINF:-1,ES: AXN
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4081.ts
-#EXTINF:-1,ES: AXN FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3961.ts
-#EXTINF:-1,ES: AXN White
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4080.ts
-#EXTINF:-1,ES: AXN White FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4079.ts
-#EXTINF:-1,ES: Antena 3
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4078.ts
-#EXTINF:-1,ES: Antena 3 FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4077.ts
-#EXTINF:-1,ES: Aragon TV
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4076.ts
-#EXTINF:-1,ES: Baby TV
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4075.ts
-#EXTINF:-1,ES: DKiss
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4044.ts
-#EXTINF:-1,ES: Discovery Channel
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4043.ts
-#EXTINF:-1,ES: Disney Channel
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3955.ts
-#EXTINF:-1,ES: Disney Channel FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4041.ts
-#EXTINF:-1,ES: Disney Junior
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4040.ts
-#EXTINF:-1,ES: Disney XD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4039.ts
-#EXTINF:-1,ES: Energy
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4038.ts
-#EXTINF:-1,ES: Esperanza TV
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3954.ts
-#EXTINF:-1,ES: FDF
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4037.ts
-#EXTINF:-1,ES: FOX Life
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4036.ts
-#EXTINF:-1,ES: Fox
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4035.ts
-#EXTINF:-1,ES: Fox FHD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3952.ts
-#EXTINF:-1,ES: Fox HD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4034.ts
-#EXTINF:-1,ES: Fox Life HD
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4033.ts
-#EXTINF:-1,ES: Fox News
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/3993.ts
-#EXTINF:-1,ES: Galicia TV
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4032.ts
+#EXTINF:-1,ES:LA_1_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4757
+#EXTINF:-1,ES:LA_1
+http://ch.xtra7tv.com:8000/manuel/manuel/4758
+#EXTINF:-1,ES:LA_2_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4755
+#EXTINF:-1,ES:LA_2
+http://ch.xtra7tv.com:8000/manuel/manuel/4756
+#EXTINF:-1,ES:ANTENA_3_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4753
+#EXTINF:-1,ES:ANTENA_3_SD
+http://ch.xtra7tv.com:8000/manuel/manuel/4754
+#EXTINF:-1,ES:CUATRO_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4751
+#EXTINF:-1,ES:CUATRO
+http://ch.xtra7tv.com:8000/manuel/manuel/4752
+#EXTINF:-1,ES:TELECINCO_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4749
+#EXTINF:-1,ES:TELECINCO
+http://ch.xtra7tv.com:8000/manuel/manuel/4750
+#EXTINF:-1,ES:LA_SEXTA_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4747
+#EXTINF:-1,ES:LA_SEXTA
+http://ch.xtra7tv.com:8000/manuel/manuel/4748
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4745
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4746
+#EXTINF:-1,ES:TELESatellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4743
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4744
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4741
+#EXTINF:-1,ES:ETB
+http://ch.xtra7tv.com:8000/manuel/manuel/4742
+#EXTINF:-1,ES:A3SERIES_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4739
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4740
+#EXTINF:-1,ES:FDF
+http://ch.xtra7tv.com:8000/manuel/manuel/4737
+#EXTINF:-1,ES:DIVINITY
+http://ch.xtra7tv.com:8000/manuel/manuel/4738
+#EXTINF:-1,ES:NOVA
+http://ch.xtra7tv.com:8000/manuel/manuel/4735
+#EXTINF:-1,ES:NEOX
+http://ch.xtra7tv.com:8000/manuel/manuel/4736
+#EXTINF:-1,ES:BEMAD_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4733
+#EXTINF:-1,ES:BEMAD
+http://ch.xtra7tv.com:8000/manuel/manuel/4734
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4870
+#EXTINF:-1,ES:TEN
+http://ch.xtra7tv.com:8000/manuel/manuel/4732
+#EXTINF:-1,ES:DKISS
+http://ch.xtra7tv.com:8000/manuel/manuel/4730
+#EXTINF:-1,ES:DMAX
+http://ch.xtra7tv.com:8000/manuel/manuel/4731
+#EXTINF:-1,ES:IBERALIA
+http://ch.xtra7tv.com:8000/manuel/manuel/4728
+#EXTINF:-1,ES:ENERGY
+http://ch.xtra7tv.com:8000/manuel/manuel/472
+#EXTINF:-1,ES:ARAGON_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4726
+#EXTINF:-1,ES:CLASICA_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4727
+#EXTINF:-1,ES:CLAN_TVE_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4723
+#EXTINF:-1,ES:CLAN_TVE
+http://ch.xtra7tv.com:8000/manuel/manuel/4724
+#EXTINF:-1,ES:CASTILLA_LA_MANCHA
+http://ch.xtra7tv.com:8000/manuel/manuel/4725
+#EXTINF:-1,ES:ANDORRA
+http://ch.xtra7tv.com:8000/manuel/manuel/4721
+#EXTINF:-1,ES:TVM
+http://ch.xtra7tv.com:8000/manuel/manuel/4722
+#EXTINF:-1,ES:POPULAR_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4719
+#EXTINF:-1,ES:7RM_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4720
+#EXTINF:-1,ES:TRECE
+http://ch.xtra7tv.com:8000/manuel/manuel/4717
+#EXTINF:-1,ES:BOM
+http://ch.xtra7tv.com:8000/manuel/manuel/4718
+#EXTINF:-1,ES:24_HORAS
+http://ch.xtra7tv.com:8000/manuel/manuel/4715
+#EXTINF:-1,ES:MURCIA
+http://ch.xtra7tv.com:8000/manuel/manuel/4716
+#EXTINF:-1,ES:3/24
+http://ch.xtra7tv.com:8000/manuel/manuel/4713
+#EXTINF:-1,ES:CUBAVISION
+http://ch.xtra7tv.com:8000/manuel/manuel/4714
+#EXTINF:-1,ES:RTVCE
+http://ch.xtra7tv.com:8000/manuel/manuel/4712
+#EXTINF:-1,ES:FOX_NEWS
+http://ch.xtra7tv.com:8000/manuel/manuel/4861
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4710
+#EXTINF:-1,ES:TELE_ASTURIAS
+http://ch.xtra7tv.com:8000/manuel/manuel/4711
+#EXTINF:-1,ES:BETIS_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4709
+#EXTINF:-1, CINE
+http://ch.xtra7tv.com:8000/manuel/manuel/4806
+#EXTINF:-1,ES:#0_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4805
+#EXTINF:-1,ES:#0
+http://ch.xtra7tv.com:8000/manuel/manuel/4804
+#EXTINF:-1,ES:#0+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8447
+#EXTINF:-1,ES:MOVISTAR_COMEDIA_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4802
+#EXTINF:-1,ES:MOVISTAR_COMEDIA
+http://ch.xtra7tv.com:8000/manuel/manuel/4803
+#EXTINF:-1,ES:MOVISTAR_COMEDIA+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8427
+#EXTINF:-1,ES:MOVISTAR_DRAMA_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4800
+#EXTINF:-1,ES:MOVISTAR_DRAMA
+http://ch.xtra7tv.com:8000/manuel/manuel/4801
+#EXTINF:-1,ES:MOVISTAR_DRAMA+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8426
+#EXTINF:-1,ES:C&ROLL_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4797
+#EXTINF:-1,ES:C&ROLL
+http://ch.xtra7tv.com:8000/manuel/manuel/4796
+#EXTINF:-1,ES:C&ROLL+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8425
+#EXTINF:-1,ES:SERIESMANIA_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4798
+#EXTINF:-1,ES:SERIESMANIA
+http://ch.xtra7tv.com:8000/manuel/manuel/4799
+#EXTINF:-1,ES:SERIESMANIA+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8424
+#EXTINF:-1,ES:MOVISTAR_ESTRENOS_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4794
+#EXTINF:-1,ES:MOVISTAR_ESTRENOS
+http://ch.xtra7tv.com:8000/manuel/manuel/4795
+#EXTINF:-1,ES:MOVISTAR_ESTRENOS+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8423
+#EXTINF:-1,ES:MOVISTAR_ACCION_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4792
+#EXTINF:-1,ES:MOVISTAR_ACCION
+http://ch.xtra7tv.com:8000/manuel/manuel/4793
+#EXTINF:-1,ES:MOVISTAR_ACCION+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8422
+#EXTINF:-1,ES:MOVISTAR_SERIES_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4791
+#EXTINF:-1,ES:MOVISTAR_SERIES
+http://ch.xtra7tv.com:8000/manuel/manuel/4790
+#EXTINF:-1,ES:MOVISTAR_SERIES+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8421
+#EXTINF:-1,ES:MOVISTAR_CINE_N+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8420
+#EXTINF:-1,ES:MOVISTAR_CINE_N
+http://ch.xtra7tv.com:8000/manuel/manuel/4789
+#EXTINF:-1,ES:HOLLYWOOD_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4787
+#EXTINF:-1,ES:HOLLYWOOD
+http://ch.xtra7tv.com:8000/manuel/manuel/4788
+#EXTINF:-1,ES:HOLLYWOOD+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8441
+#EXTINF:-1,ES:XTRM
+http://ch.xtra7tv.com:8000/manuel/manuel/4780
+#EXTINF:-1,ES:AMC_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4770
+#EXTINF:-1,ES:AMC
+http://ch.xtra7tv.com:8000/manuel/manuel/4771
+#EXTINF:-1,ES:AMC+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8446
+#EXTINF:-1,ES:AXN
+http://ch.xtra7tv.com:8000/manuel/manuel/4775
+#EXTINF:-1,ES:AXN+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8445
+#EXTINF:-1,ES:AXN_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4774
+#EXTINF:-1,ES:AXN_WHITE_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4772
+#EXTINF:-1,ES:AXN_WHITE
+http://ch.xtra7tv.com:8000/manuel/manuel/4773
+#EXTINF:-1,ES:AXN_WHITE+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8444
+#EXTINF:-1,ES:CALLE_13_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4777
+#EXTINF:-1,ES:CALLE_13
+http://ch.xtra7tv.com:8000/manuel/manuel/4778
+#EXTINF:-1,ES:CALLE_13+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8443
+#EXTINF:-1,ES:FOX_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4762
+#EXTINF:-1,ES:FOX
+http://ch.xtra7tv.com:8000/manuel/manuel/4763
+#EXTINF:-1,ES:FOX+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8442
+#EXTINF:-1,ES:FOX_LIFE_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4764
+#EXTINF:-1,ES:FOX_LIFE
+http://ch.xtra7tv.com:8000/manuel/manuel/4765
+#EXTINF:-1,ES:SYFY+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8439
+#EXTINF:-1,ES:SYFY_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4767
+#EXTINF:-1,ES:TCM_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4785
+#EXTINF:-1,ES:TCM
+http://ch.xtra7tv.com:8000/manuel/manuel/4786
+#EXTINF:-1,ES:TCM+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8438
+#EXTINF:-1,ES:SUNDANCE+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8440
+#EXTINF:-1,ES:SUNDANCE
+http://ch.xtra7tv.com:8000/manuel/manuel/4776
+#EXTINF:-1,ES:TNT+2H
+http://ch.xtra7tv.com:8000/manuel/manuel/8437
+#EXTINF:-1,ES:TNT_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4784
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4779
+#EXTINF:-1,ES:PARAMOUNT_CHANNEL
+http://ch.xtra7tv.com:8000/manuel/manuel/4768
+#EXTINF:-1,ES:COSMO_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4761
+#EXTINF:-1,ES:COMEDY_CENTRAL
+http://ch.xtra7tv.com:8000/manuel/manuel/4769
+#EXTINF:-1,ES:DE_PELICULA
+http://ch.xtra7tv.com:8000/manuel/manuel/4781
+#EXTINF:-1,ES:DARK
+http://ch.xtra7tv.com:8000/manuel/manuel/4782
+#EXTINF:-1,ES:SOMOS
+http://ch.xtra7tv.com:8000/manuel/manuel/4783
+#EXTINF:-1,ES:MEGA_SD
+http://ch.xtra7tv.com:8000/manuel/manuel/4766
+#EXTINF:-1, DEPORTE
+http://ch.xtra7tv.com:8000/manuel/manuel/4859
+#EXTINF:-1,ES:_LA_LIGA
+http://ch.xtra7tv.com:8000/manuel/manuel/8475
+#EXTINF:-1,ES:_LA_LIGA_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/4835
+#EXTINF:-1,ES:LA_LIGATVBAR_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/4838
+#EXTINF:-1,ES:_LA_LIGA_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4836
+#EXTINF:-1,ES:LA_LIGATVBAR_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4839
+#EXTINF:-1,ES:LA_LIGATVBAR
+http://ch.xtra7tv.com:8000/manuel/manuel/8474
+#EXTINF:-1,ES:LA_LIGA123
+http://ch.xtra7tv.com:8000/manuel/manuel/4823
+#EXTINF:-1,ES:ONES
+http://ch.xtra7tv.com:8000/manuel/manuel/8473
+#EXTINF:-1,ES:ONES_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/4847
+#EXTINF:-1,ES:ONES_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4848
+#EXTINF:-1,ES:VAMOS
+http://ch.xtra7tv.com:8000/manuel/manuel/8489
+#EXTINF:-1,ES:VAMOS_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/5598
+#EXTINF:-1,ES:VAMOS_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/5599
+#EXTINF:-1,ES:MOVISTAR_DEPORTES_2_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4811
+#EXTINF:-1,ES:MOVISTAR_DEPORTES_1_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4812
+#EXTINF:-1,ES:MOVISTAR_F1_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4851
+#EXTINF:-1,ES:MOVISTAR_F1
+http://ch.xtra7tv.com:8000/manuel/manuel/4852
+#EXTINF:-1,ES:MOVISTAR_GOLF_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4815
+#EXTINF:-1,ES:MOVISTAR_GOLF
+http://ch.xtra7tv.com:8000/manuel/manuel/4810
+#EXTINF:-1,ES:MOVISTAR_MOTO_GP_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4853
+#EXTINF:-1,ES:S
+http://ch.xtra7tv.com:8000/manuel/manuel/4816
+#EXTINF:-1,ES:TELEDEPORTE
+http://ch.xtra7tv.com:8000/manuel/manuel/4850
+#EXTINF:-1,ES:EUROSPORT_1_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4818
+#EXTINF:-1,ES:EUROSPORT_1
+http://ch.xtra7tv.com:8000/manuel/manuel/4819
+#EXTINF:-1,ES:EUROSPORT_2
+http://ch.xtra7tv.com:8000/manuel/manuel/4817
+#EXTINF:-1,ES:BARCA_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4809
+#EXTINF:-1,ES:GOL_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4856
+#EXTINF:-1,ES:REAL_MADRID_TV_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4807
+#EXTINF:-1,ES:REAL_MADRID_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4808
+#EXTINF:-1,ES:TDP_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4849
+#EXTINF:-1,ES:SEVILLA_FC
+http://ch.xtra7tv.com:8000/manuel/manuel/4857
+#EXTINF:-1,ES:TOROS_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4872
+#EXTINF:-1,ES:TOROS
+http://ch.xtra7tv.com:8000/manuel/manuel/4873
+#EXTINF:-1, SOLO_PARTIDO
+http://ch.xtra7tv.com:8000/manuel/manuel/4858
+#EXTINF:-1,ES:MOVISTAR_PARTIZADO
+http://ch.xtra7tv.com:8000/manuel/manuel/8472
+#EXTINF:-1,ES:MOVISTAR_PARTIZADO_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/4855
+#EXTINF:-1,ES:MOVISTAR_PARTIDAZO_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4854
+#EXTINF:-1,ES:_DE_CAMPEONES_1_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/8463
+#EXTINF:-1,ES:LA_LIGA_TVBAR_1
+http://ch.xtra7tv.com:8000/manuel/manuel/4837
+#EXTINF:-1,ES:_DE_CAMPEONES_1_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4846
+#EXTINF:-1,ES:_DE_CAMPEONES_1
+http://ch.xtra7tv.com:8000/manuel/manuel/8477
+#EXTINF:-1,ES:_DE_CAMPEONES_2
+http://ch.xtra7tv.com:8000/manuel/manuel/8476
+#EXTINF:-1,ES:_DE_CAMPEONES_2_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/4845
+#EXTINF:-1,ES:_DE_CAMPEONES_2_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4844
+#EXTINF:-1,ES:_DE_CAMPEONES_3
+http://ch.xtra7tv.com:8000/manuel/manuel/8490
+#EXTINF:-1,ES:_DE_CAMPEONES_3_LBR
+http://ch.xtra7tv.com:8000/manuel/manuel/4843
+#EXTINF:-1,ES:_DE_CAMPEONES_5
+http://ch.xtra7tv.com:8000/manuel/manuel/4841
+#EXTINF:-1,ES:_DE_CAMPEONES_4
+http://ch.xtra7tv.com:8000/manuel/manuel/4842
+#EXTINF:-1,ES:_DE_CAMPEONES_7
+http://ch.xtra7tv.com:8000/manuel/manuel/8464
+#EXTINF:-1,ES:_DE_CAMPEONES_6
+http://ch.xtra7tv.com:8000/manuel/manuel/8465
+#EXTINF:-1,ES:_DE_CAMPEONES_8
+http://ch.xtra7tv.com:8000/manuel/manuel/4840
+#EXTINF:-1,ES:MULTI_FUTBOL_2
+http://ch.xtra7tv.com:8000/manuel/manuel/4824
+#EXTINF:-1,ES:_LA_LIGA_7
+http://ch.xtra7tv.com:8000/manuel/manuel/4829
+#EXTINF:-1,ES:_LA_LIGA_6
+http://ch.xtra7tv.com:8000/manuel/manuel/4830
+#EXTINF:-1,ES:_LA_LIGA_5
+http://ch.xtra7tv.com:8000/manuel/manuel/4831
+#EXTINF:-1,ES:_LA_LIGA_3
+http://ch.xtra7tv.com:8000/manuel/manuel/4832
+#EXTINF:-1,ES:_LA_LIGA_2
+http://ch.xtra7tv.com:8000/manuel/manuel/4833
+#EXTINF:-1,ES:_LA_LIGA_1
+http://ch.xtra7tv.com:8000/manuel/manuel/4834
+#EXTINF:-1,ES:LALIGA_123_TV_3
+http://ch.xtra7tv.com:8000/manuel/manuel/4820
+#EXTINF:-1,ES:LALIGA_123_TV_2
+http://ch.xtra7tv.com:8000/manuel/manuel/4821
+#EXTINF:-1,ES:LALIGA_123_TV_1
+http://ch.xtra7tv.com:8000/manuel/manuel/4822
+#EXTINF:-1,ES:MULTI_DEPORTE_4
+http://ch.xtra7tv.com:8000/manuel/manuel/4825
+#EXTINF:-1,ES:MULTI_DEPORTE_3
+http://ch.xtra7tv.com:8000/manuel/manuel/4826
+#EXTINF:-1,ES:MULTI_DEPORTE_2
+http://ch.xtra7tv.com:8000/manuel/manuel/4827
+#EXTINF:-1,ES:MULTI_DEPORTE_1
+http://ch.xtra7tv.com:8000/manuel/manuel/4828
+#EXTINF:-1, DOCUMENTO
+http://ch.xtra7tv.com:8000/manuel/manuel/4877
+#EXTINF:-1,ES:NAT_GEO_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4865
+#EXTINF:-1,ES:NATIONAL_GEOGRAPHIC
+http://ch.xtra7tv.com:8000/manuel/manuel/4866
+#EXTINF:-1,ES:NATIONAL_GEO_WILD_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4864
+#EXTINF:-1,ES:CRIMEN INVES
+http://ch.xtra7tv.com:8000/manuel/manuel/4869
+#EXTINF:-1,ES:DISCOVERY
+http://ch.xtra7tv.com:8000/manuel/manuel/4867
+#EXTINF:-1,ES:Satellite TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4862
+#EXTINF:-1,ES:BLAZE
+http://ch.xtra7tv.com:8000/manuel/manuel/4868
+#EXTINF:-1,ES:CAZA_Y_PESCA
+http://ch.xtra7tv.com:8000/manuel/manuel/4876
+#EXTINF:-1,ES:CAZAVISION
+http://ch.xtra7tv.com:8000/manuel/manuel/4874
+#EXTINF:-1,ES:CAZA_Y_PESCA_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4875
+#EXTINF:-1,ES:ODISEA
+http://ch.xtra7tv.com:8000/manuel/manuel/4860
+#EXTINF:-1,ES:HISTORIA
+http://ch.xtra7tv.com:8000/manuel/manuel/4863
+#EXTINF:-1,ES:VIAJAR_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4871
+#EXTINF:-1, NINO
+http://ch.xtra7tv.com:8000/manuel/manuel/4887
+#EXTINF:-1,ES:MOVISTAR_DISNEY
+http://ch.xtra7tv.com:8000/manuel/manuel/4886
+#EXTINF:-1,ES:DISNEY_CHANNEL_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4879
+#EXTINF:-1,ES:DISNEY_CHANNEL
+http://ch.xtra7tv.com:8000/manuel/manuel/4880
+#EXTINF:-1,ES:DISNEY_JUNIOR
+http://ch.xtra7tv.com:8000/manuel/manuel/4878
+#EXTINF:-1,ES:NICK_JUNIOR
+http://ch.xtra7tv.com:8000/manuel/manuel/4884
+#EXTINF:-1,ES:NICKELODEON_HD
+http://ch.xtra7tv.com:8000/manuel/manuel/4885
+#EXTINF:-1,ES:BABY_TV
+http://ch.xtra7tv.com:8000/manuel/manuel/4883
+#EXTINF:-1,ES:PANDA
+http://ch.xtra7tv.com:8000/manuel/manuel/4881
+#EXTINF:-1,ES:BOING
+http://ch.xtra7tv.com:8000/manuel/manuel/4882
+Share this:
+
