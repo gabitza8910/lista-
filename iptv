@@ -1,95 +1,61 @@
 EXTM3U
-#EXTINF:-1, HBO 2 HD
-http://79.112.167.78:9905/play/a004/index.m3u8
-#EXTINF:-1, Mooz Dance HD
-http://79.112.167.78:9905/play/a00j/index.m3u8
-#EXTINF:-1, Cinethronix
-http://79.112.167.78:9905/play/a00u/index.m3u8
-#EXTINF:-1, History HD
-http://79.112.167.78:9905/play/a01b/index.m3u8
-#EXTINF:-1, Dolce Sport 3 HD
-http://79.112.167.78:9905/play/a00m/index.m3u8
-#EXTINF:-1, PRO X HD
-http://79.112.167.78:9905/play/a014/index.m3u8
-#EXTINF:-1, Antena 1 HD
-http://79.112.167.78:9905/play/a00x/index.m3u8
-#EXTINF:-1, Cinemax HD
-http://79.112.167.78:9905/play/a005/index.m3u8
-#EXTINF:-1, Nickelodeon HD
-http://79.112.167.78:9905/play/a00d/index.m3u8
-#EXTINF:-1, Dolce Sport 4 HD
-http://79.112.167.78:9905/play/a00n/index.m3u8
-#EXTINF:-1, Mooz Hits
-http://79.112.167.78:9905/play/a00i/index.m3u8
-#EXTINF:-1, Mooz RO
-http://79.112.167.78:9905/play/a01m/index.m3u8
-#EXTINF:-1, Private TV
-http://79.112.167.78:9905/play/a01i/index.m3u8
-#EXTINF:-1, Hustler
-http://79.112.167.78:9905/play/a01j/index.m3u8
-#EXTINF:-1, Eurosport 2 HD
-http://79.112.167.78:9905/play/a017/index.m3u8
-#EXTINF:-1, Music Channel
-http://79.112.167.78:9905/play/a01d/index.m3u8
-#EXTINF:-1, Disc ID Xtra HD
-http://79.112.167.78:9905/play/a010/index.m3u8
-#EXTINF:-1, Dolce Sport HD
-http://79.112.167.78:9905/play/a013/index.m3u8
-#EXTINF:-1, DTX HD
-http://79.112.167.78:9905/play/a00r/index.m3u8
-#EXTINF:-1, Etno
-http://79.112.167.78:9905/play/a01f/index.m3u8
-#EXTINF:-1, Mooz HD
-http://79.112.167.78:9905/play/a01a/index.m3u8
-#EXTINF:-1, Look TV HD
-http://79.112.167.78:9905/play/a00k/index.m3u8
-#EXTINF:-1, Viasat Nature/History HD
-http://79.112.167.78:9905/play/a019/index.m3u8
-#EXTINF:-1, Brazzers TV
-http://79.112.167.78:9905/play/a01k/index.m3u8
-#EXTINF:-1, Antena 3 HD
-http://79.112.167.78:9905/play/a00y/index.m3u8
-#EXTINF:-1, VH 1 Classic
-http://79.112.167.78:9905/play/a009/index.m3u8
-#EXTINF:-1, Playboy Europe
-http://79.112.167.78:9905/play/a01l/index.m3u8
-#EXTINF:-1, HBO 3 HD
-http://79.112.167.78:9905/play/a00q/index.m3u8
-#EXTINF:-1, Discovery Science HD
-http://79.112.167.78:9905/play/a00t/index.m3u8
-#EXTINF:-1, Favorit
-http://79.112.167.78:9905/play/a01e/index.m3u8
-#EXTINF:-1, MTV Live HD
-http://79.112.167.78:9905/play/a00s/index.m3u8
-#EXTINF:-1, E! HD
-http://79.112.167.78:9905/play/a00c/index.m3u8
-#EXTINF:-1, HBO HD
-http://79.112.167.78:9905/play/a012/index.m3u8
-#EXTINF:-1, Dolce Sport 2 HD
-http://79.112.167.78:9905/play/a008/index.m3u8
-#EXTINF:-1, BBC Earth HD
-http://79.112.167.78:9905/play/a00l/index.m3u8
-#EXTINF:-1, Happy Channel HD
-http://79.112.167.78:9905/play/a00f/index.m3u8
-#EXTINF:-1, Eurosport 1 HD
-http://79.112.167.78:9905/play/a015/index.m3u8
-#EXTINF:-1, Sundance HD
-http://79.112.167.78:9905/play/a007/index.m3u8
-#EXTINF:-1, Antena Stars HD
-http://79.112.167.78:9905/play/a00e/index.m3u8
-#EXTINF:-1, Discovery Showcase HD
-http://79.112.167.78:9905/play/a00p/index.m3u8
-#EXTINF:-1, ZU TV HD
-http://79.112.167.78:9905/play/a00g/index.m3u8
-#EXTINF:-1, Nat Geo HD
-http://79.112.167.78:9905/play/a018/index.m3u8
-#EXTINF:-1, Cinemax 2 HD
-http://79.112.167.78:9905/play/a006/index.m3u8
-#EXTINF:-1, MTV Rocks
-http://79.112.167.78:9905/play/a00a/index.m3u8
-#EXTINF:-1, Traditii TV
-http://79.112.167.78:9905/play/a01h/index.m3u8
-#EXTINF:-1, Kanal D HD
-http://79.112.167.78:9905/play/a00w/index.m3u8
-#EXTINF:-1, Taraf TV
-http://79.112.167.78:9905/play/a01g/index.m3u8
+#EXTINF:-1,RO:  DIGI SPORT 2
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20136
+#EXTINF:-1,RO:  EUROSPORT
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20135
+#EXTINF:-1,RO:  MINIMAX
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20134
+#EXTINF:-1,RO: ACASA  TV
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20132
+#EXTINF:-1,RO: ANTENA  3
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20131
+#EXTINF:-1,RO: ANTENA  STARS
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20130
+#EXTINF:-1,RO: AXN  ROMANIA
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20129
+#EXTINF:-1,RO: DIGI  WORLD
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20126
+#EXTINF:-1,RO: DIGI SPORT 3
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20125
+#EXTINF:-1,RO: DISNEY  JUNIOR
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20124
+#EXTINF:-1,RO: EUROSPORT  2
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20123
+#EXTINF:-1,RO: FAVORTI  TV
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20122
+#EXTINF:-1,RO: FISHING &  HUNTING
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20121
+#EXTINF:-1,RO: HAPPY  CHANNEL
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20120
+#EXTINF:-1,RO: HBO  ROMANIA
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20119
+#EXTINF:-1,RO: HBO 2
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20118
+#EXTINF:-1,RO: HBO 3
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20117
+#EXTINF:-1,RO: HISTORY  CHANNELH
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20116
+#EXTINF:-1,RO: KANAL  D
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20115
+#EXTINF:-1,RO: KISS TV
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20114
+#EXTINF:-1,RO: LOOK  TV
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20113
+#EXTINF:-1,RO: MUSIC CHANEL  ONE
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20112
+#EXTINF:-1,RO: MUSIC CHANNEL ONE1
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20111
+#EXTINF:-1,RO: NATIONAL  GEOGRAPHIC
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20110
+#EXTINF:-1,RO: NATIONAL  TV
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20109
+#EXTINF:-1,RO: NATIONAL GEO WILD
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20108
+#EXTINF:-1,RO: PARAMOUNT  CHANEL
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20107
+#EXTINF:-1,RO: PRIMA  TV
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20106
+#EXTINF:-1,RO: SPORT  RO
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20105
+#EXTINF:-1,RO: TV1000
+http://217.182.133.110:8000/intranext/2pj78bWJAR/20104
